@@ -1,0 +1,83 @@
+{
+  "designs": [
+    {
+      "id": 1,
+      "title": "Floral Elegance",
+      "category": "Arabic • Minimalist",
+      "description": "Delicate floral patterns with negative space for a modern, sophisticated look. This elegant design features flowing lines and minimalist motifs that create a contemporary aesthetic while maintaining traditional henna artistry. Ideal for festivals, casual events, and those who appreciate understated beauty. The design emphasizes clean lines and strategic use of space, making it perfect for modern celebrations.",
+      "style": "Arabic Floral",
+      "duration": "2-3 hours",
+      "occasion": "Eid, Karva Chauth, Parties",
+      "image": "https://img.weddingbazaar.com/photos/pictures/002/302/702/new_medium/BeFunky-collage_%282%29.jpg?1611318752",
+      "colorDevelopment": "Medium reddish-brown after 18-24 hours",
+      "hennaQuality": "100% Natural, Premium Grade",
+      "bestFor": "Festivals, Casual Events, Modern Celebrations"
+    },
+    {
+      "id": 2,
+      "title": "Intricate Traditional",
+      "category": "Indian • Full Coverage",
+      "description": "Rich traditional motifs including mandalas, paisleys, and fine lattice work create a timeless classic for special occasions. This design showcases the depth of traditional Indian mehndi artistry with intricate patterns that cover the hands and arms beautifully. Each element is carefully crafted to create a harmonious composition that honors cultural heritage while adding modern elegance.",
+      "style": "Rajasthani Traditional",
+      "duration": "3-4 hours",
+      "occasion": "Weddings, Festivals",
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/2016/12/henna-tattoos-1.jpg",
+      "colorDevelopment": "Deep reddish-brown after 24-36 hours",
+      "hennaQuality": "100% Natural, Premium Grade",
+      "bestFor": "Traditional Weddings, Cultural Events"
+    },
+    {
+      "id": 3,
+      "title": "Bridal Masterpiece",
+      "category": "Bridal • Full Hand & Arm",
+      "description": "This intricate bridal mehndi features traditional Indian motifs including peacocks, lotus flowers, and paisley patterns extending from fingertips to elbows. Perfect for the modern bride who wants a blend of classic elegance and detailed artistry. The design incorporates personalized elements and symbolic patterns that tell your unique love story. Each motif is carefully placed to create a stunning visual narrative that will be remembered for years to come.",
+      "style": "Traditional Indian Bridal",
+      "duration": "4-5 hours",
+      "occasion": "Weddings, Engagements",
+      "image": "https://www.thesparklingwedding.com/wp-content/uploads/2024/09/cover_02.jpg",
+      "colorDevelopment": "Deep reddish-brown after 24-48 hours",
+      "hennaQuality": "100% Natural, Premium Grade",
+      "bestFor": "Bridal Ceremonies, Engagement Functions"
+    },
+    {
+      "id": 4,
+      "title": "Modern Bridal",
+      "category": "Contemporary • Elegant",
+      "description": "A fusion of contemporary design elements with traditional henna artistry. This modern bridal design features geometric patterns, floral motifs, and personalized elements that create a unique statement piece. Perfect for the contemporary bride who wants something different yet elegant. The design balances intricate details with clean, modern aesthetics.",
+      "style": "Contemporary Fusion",
+      "duration": "4-5 hours",
+      "occasion": "Weddings, Pre-Wedding Functions",
+      "image": "https://www.brides.com/thmb/9OyiFE_qS9rJGXB_Unm9PCPcNoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wedding-henna-designs-fb-twitter-Lev-Kuperman-b0c7a4350464488ba3f508de8f7adca6.jpg",
+      "colorDevelopment": "Rich brown after 24-48 hours",
+      "hennaQuality": "100% Natural, Premium Grade",
+      "bestFor": "Modern Weddings, Contemporary Celebrations"
+    },
+    {
+      "id": 5,
+      "title": "Engagement Elegance",
+      "category": "Elegant • Sophisticated",
+      "description": "Beautiful engagement mehndi designs that celebrate your special moment with grace and sophistication. These designs are perfect for engagement ceremonies, featuring elegant patterns that complement traditional jewelry and attire. The designs are customizable to include initials, dates, or meaningful symbols that make your engagement even more special.",
+      "style": "Elegant Engagement",
+      "duration": "2-3 hours",
+      "occasion": "Engagements, Ring Ceremonies",
+      "image": "https://media-api.xogrp.com/images/cc05bd23-6e35-4e1b-8360-62730f5d967f~rs_768.h-cr_0.0.1100.825",
+      "colorDevelopment": "Medium to deep brown after 20-30 hours",
+      "hennaQuality": "100% Natural, Premium Grade",
+      "bestFor": "Engagement Ceremonies, Ring Ceremonies"
+    },
+    {
+      "id": 6,
+      "title": "Festival Quick",
+      "category": "Quick • Beautiful",
+      "description": "Stunning mehndi designs perfect for festivals and quick celebrations. These designs are beautiful yet can be completed in 1-2 hours, making them ideal for busy schedules. Perfect for Karva Chauth, Eid, Diwali, and other festive occasions. The designs feature traditional motifs with modern execution for a fresh, celebratory look.",
+      "style": "Festival Traditional",
+      "duration": "1-2 hours",
+      "occasion": "Karva Chauth, Eid, Diwali, Festivals",
+      "image": "https://img.weddingbazaar.com/photos/pictures/002/302/702/new_medium/BeFunky-collage_%282%29.jpg?1611318752",
+      "colorDevelopment": "Medium brown after 12-18 hours",
+      "hennaQuality": "100% Natural, Premium Grade",
+      "bestFor": "Festivals, Quick Celebrations"
+    }
+  ]
+}
+
